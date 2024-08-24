@@ -1,6 +1,6 @@
 
 ## Para iniciar a imagem !
-
+docker build -t moul/icecast
 docker run -p 8000:8000 moul/icecast
 
  
