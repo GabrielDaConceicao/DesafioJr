@@ -1,8 +1,4 @@
-# Icecast in Docker [![Build Status](https://travis-ci.org/moul/docker-icecast.svg?branch=master)](https://travis-ci.org/moul/docker-icecast)
 
-Icecast2 Dockerfile
-
-[![](http://dockeri.co/image/moul/icecast)](https://index.docker.io/u/moul/icecast/)
 
 ## Run
 
@@ -51,11 +47,4 @@ icecast:
   - 8000:8000
 ```
 
-## Examples
 
-- https://github.com/ultreme/scc-radio/
-
-
-## License
-
-[MIT](https://github.com/moul/docker-icecast/blob/master/LICENSE.md)
