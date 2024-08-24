@@ -1,6 +1,5 @@
 FROM debian:stable-slim
 
-MAINTAINER Manfred Touron "m@42.am"
 
 ENV DEBIAN_FRONTEND noninteractive
 
