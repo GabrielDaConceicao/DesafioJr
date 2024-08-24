@@ -23,4 +23,7 @@ icecast:
   - 8000:8000
 ```
 
+Link Video 
+https://www.youtube.com/watch?v=-mUsdHLSxYA
+
 
